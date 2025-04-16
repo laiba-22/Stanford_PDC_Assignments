@@ -5,6 +5,7 @@ This repository serves as an index to my solutions for the programming assignmen
 ## 🔗 Assignment Links
 
 -> [Assignment 1 – (https://github.com/laiba-22/Stanford-CS149-Assignment2-2025)]
+
 -> [Assignment 2 – (https://github.com/laiba-22/Stanford-CS149-Assignment1-2025-)]
 
 Each repo contains my own implementation, performance analysis, and writeups.
